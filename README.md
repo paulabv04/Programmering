@@ -1,17 +1,15 @@
-# Arbeidskrav – Programmering
+# Programmeringsprosjekt – Interaktivt Spill
 
-**Beskrivelse:**  
-Dette prosjektet er et individuelt arbeidskrav i programmering. Utgangspunktet var ferdig CSS og HTML fra foreleser, og oppgaven var å programmere interaktivitet med **JavaScript**.  
+Et lite interaktivt spill laget med HTML, CSS og JavaScript.  
+Prosjektet fokuserer på enkel logikk, hendelser og visuell respons for å skape en lett og underholdende brukeropplevelse.
 
-**Filer og mapper:**  
-- `assets/` – Ressurser som bilder og ikoner brukt i prosjektet  
-- `arbeidskravh24.html` – Hovedfilen med oppgaven implementert  
-- `arbeidskrav.css` – Styling for prosjektet  
+##  Innhold
+- Spillmekanikk laget med JavaScript  
+- Enkle effekter og respons på brukerhandlinger  
+- Strukturert HTML og tilpasset CSS  
+- Bruk av ressurser som bilder og ikoner
 
-**Min rolle:**  
-Jeg jobbet alene med å implementere JavaScript-funksjonalitet, og testet ulike løsninger for interaktive elementer.  
-
-**Hva jeg lærte:**  
-- Bruke JavaScript til å lage interaktivitet på nettsider  
-- Debugging og problemløsning i kode  
-- Kombinere HTML, CSS og JS for funksjonelle nettsider
+## Teknologier
+- JavaScript  
+- HTML  
+- CSS
